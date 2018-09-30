@@ -1,10 +1,8 @@
 ---
-layout: archive
-title:
-permalink: /cv/
+<!-- layout: archive -->
+title: "Course Projects"
+permalink: /projects/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 Face recognition based on deep learning and embedded platform (Undergraduate graduation thesis)
