@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://Wei-kang-Wang.github.io/files/weikangwang_CV.pdf)
-
 Education
 ======
 * B.S. in Automation Science
