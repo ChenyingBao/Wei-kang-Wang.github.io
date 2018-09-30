@@ -51,3 +51,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://Wei-kang-Wang.github.io/files/weikangwang_CV.pdf)
