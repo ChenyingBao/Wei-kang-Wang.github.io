@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://Wei-kang-Wang.github.io/files/weikangwang_CV.pdf)
+
 Education
 ======
 * B.S. in Automation Science, Beihang University, Beijing, CN, 2017
@@ -49,6 +52,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-
-{% include base_path %}
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://Wei-kang-Wang.github.io/files/weikangwang_CV.pdf)
