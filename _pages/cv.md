@@ -30,9 +30,6 @@ Skills
 ======
 * Programming Languages: Python, R, C, Matlab
 * Mathematical Ability: Real Analysis, Complex Analysis, Linear Algebra, Probaiblity, Matrix Analysis, Functional Analysis, Differentiable geometry
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 
 Publications
 ======
