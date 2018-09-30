@@ -9,11 +9,9 @@ Internship in Institute of Automation, Chinese Academy of Science
 ======
 * [Center for Biometrics and Security Research (CBSR), National Laboratory of Pattern Recognition of China](http://www.cbsr.ia.ac.cn/english/index.asp), Beijing, CN, SEP./2016-NOV./2016
 * Advisor: Dr. Stan Li.
-* Merged Megaface datasets, MS-Celeb-1M datasets and CASIA Face Image database into the biggest
-face datasets in the world at that time;
-* Used CNN (Convolutional Neural Network) to extract features of every identity in three data sets;
-* Constructed evaluation matrix to evaluate the similarity of every two identities from two datasets in
-order to merge the same identity.
+* Merged Megaface datasets, MS-Celeb-1M datasets and CASIA Face Image database into the biggest face datasets in the world at that time;
+  * Used CNN (Convolutional Neural Network) to extract features of every identity in three data sets;
+  * Constructed evaluation matrix to evaluate the similarity of every two identities from two datasets in order to merge the same identity.
   
 A New VC Dimension Based on Probability
 ======
