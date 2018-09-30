@@ -1,6 +1,6 @@
 ---
 title: "Cooperative Target Searching and Tracking via UCT with Probability Distribution Model"
-collection: publications
+collection:
 permalink: /publications/IEEEDSP2016
 venue: "2016 IEEE International Conference on Digital Signal Processing (DSP)"
 date: 2016-10-14
