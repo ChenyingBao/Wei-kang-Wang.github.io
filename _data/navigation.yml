@@ -10,7 +10,7 @@ main:
     url: /awards/
 
   - title: "Research Experiences"
-    url: /talks/    
+    url: /research/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -19,7 +19,7 @@ main:
   #   url: /portfolio/
         
   - title: "Course Projects"
-    url: /Project/
+    url: /projects/
     
   - title: "Contact"
     url: /contact/  
