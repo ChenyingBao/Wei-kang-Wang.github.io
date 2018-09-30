@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://Wei-kang-Wang.github.io/files/ww2461.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://Wei-kang-Wang.github.io/images/ww2461.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Master student in the [Electrical Engineering Department](https://drupal.ee.columbia.edu//) at [Columbia University](https://www.columbia.edu). [[Curriculum Vitae]](http://lantaoyu.com/files/weikangwang_CV.pdf)
