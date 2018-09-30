@@ -7,13 +7,25 @@ author_profile: true
 
 Internship in Institute of Automation, Chinese Academy of Science
 ======
-* Center for Biometrics and Security Research (CBSR), National Laboratory of Pattern Recognition of China (http://www.cbsr.ia.ac.cn/english/index.asp)
-* Beijing, CN, Sept./2016-Nov./2016
+* [Center for Biometrics and Security Research (CBSR), National Laboratory of Pattern Recognition of China](http://www.cbsr.ia.ac.cn/english/index.asp), Beijing, CN, SEP./2016-NOV./2016
 * Advisor: Dr. Stan Li.
-* M.S. in Electrical Engineering
-  * Columbia University, New York, NY, 2018(expected)
+* Merged Megaface datasets, MS-Celeb-1M datasets and CASIA Face Image database into the biggest
+face datasets in the world at that time;
+* Used CNN (Convolutional Neural Network) to extract features of every identity in three data sets;
+* Constructed evaluation matrix to evaluate the similarity of every two identities from two datasets in
+order to merge the same identity.
   
-Skills
+A New VC Dimension Based on Probability
 ======
-* Programming Languages: Python, R, C, Matlab
-* Mathematical Ability: Real Analysis, Complex Analysis, Linear Algebra, Probaiblity, Matrix Analysis, Functional Analysis, Differentiable Geometry
+* [MACHINE PERCEPTION LAB](mpl.buaa.edu.cn), Beihang University, Beijing, CN, MAR./2016-Jun./2016
+* Advisor: Professor B. Zhang
+* Broadened the definition of original VC dimension created by Vapnik into a new VC dimension based on probability through considering the factors including the distribution of data sets, the range of confidence interval and the training error;
+* Put forward new VC bound based on probability;
+* Solved paradox between the range of confidence intervals and size of the hypothesis set.
+
+Cooperative target searching and tracking via UCT with probability distribution model
+======
+* School of Automation Science and Electrical Engineering, Beihang University, Beijing, CN, JUL./2015-Dec./2015
+* Advisor: Dr. T. Wang
+* Applied the knowledge of quantum mechanics into searching algorithm and proposed quantum probability model of UVA’S searching algorithm;
+* Set probability transfer rule (PTR) for the new algorithm and proved the new model will still keep the probability distribution rule valid in theory.
