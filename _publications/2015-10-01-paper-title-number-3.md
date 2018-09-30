@@ -3,9 +3,9 @@ title: "Cooperative Target Searching and Tracking via UCT with Probability Distr
 collection: publications
 permalink: /publication/CTST
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+date: 10-16-2016
+venue: '2016 IEEE International Conference on Digital Signal Processing (DSP)'
+paperurl: 'https://ieeexplore.ieee.org/document/7868620'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
