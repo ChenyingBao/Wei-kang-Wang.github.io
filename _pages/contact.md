@@ -4,7 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Chinese Address: Fulanyuan Building 2 Room 602, Limaoshan West Road, Yi'an District, Tongling, Anhui Province, China<br>
+Chinese Postcode: 244100<br>
+United States Address: 1046 Amsterdam Ave, 10025, New York, NY<br>
+Email: ww2461@columbia.edu
 
