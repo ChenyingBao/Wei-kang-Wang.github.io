@@ -7,7 +7,7 @@ author_profile: true
 
 Face recognition based on deep learning and embedded platform (Undergraduate graduation thesis)
 ======
-* Beihang University, Beijing, CN, Sept./2016-Jun./2017
+* Beihang University, Beijing, CN, SEP./2016-JUN./2017
 * Advisor: Professor B. Zhang, School of Automation Science and Electrical Engineering, Beihang University
 * I designed a face recognition system based on deep learning and embedded system.
   * Used DSP chip, TMS320DM642 to capture face image from image flow before uploading to computer.
@@ -16,7 +16,7 @@ Face recognition based on deep learning and embedded platform (Undergraduate gra
   
 Emotion Detector Machine
 ======
-* Columbia University, New York, NY, Sept./2017-Dec./2017
+* Columbia University, New York, NY, SEP./2017-DEC./2017
 * Course project of Digital Signal Processing
 * Lecturer: Professor John Wright, Dept. of Electrical Engineering, Columbia University
 * Co-worker: Q. Zheng, M. Li and J. Peng, Graduate Students of Dept. of Electrical Engineering, Columbia University
@@ -26,7 +26,7 @@ Emotion Detector Machine
 
 Multi-Digits Recognition based on CNN
 ======
-* Columbia University, New York, NY, Sept./2017-Dec./2017
+* Columbia University, New York, NY, SEP./2017-DEC./2017
 * Course project of Neural Network & Deep Learning
 * Lecturer: Professor Zoran Kostic, Dept. of Electrical Engineering, Columbia University
 * Co-worker: J. Li, Graduate Student of Dept. of Electrical Engineering, Columbia University
@@ -37,7 +37,7 @@ Multi-Digits Recognition based on CNN
  
 Is sparse representation a good and profound explanation for face recognition?
 ======
-* Columbia University, New York, NY, Jan./2018-May./2018
+* Columbia University, New York, NY, JAN./2018-MAY./2018
 * Course project of Sparse Representation & High-dimensional Geometry
 * Lecturer: Professor John Wright, Dept. of Electrical Engineering, Columbia University
 * I aimed to figure out whether the sparse representation is a good and profound explanation for face recognition problem.
