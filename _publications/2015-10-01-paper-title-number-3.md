@@ -1,8 +1,6 @@
 ---
 title: "Cooperative Target Searching and Tracking via UCT with Probability Distribution Model"
 collection: publications
-permalink: /publication/CTST
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 10-16-2016
 venue: '2016 IEEE International Conference on Digital Signal Processing (DSP)'
 paperurl: 'https://ieeexplore.ieee.org/document/7868620'
