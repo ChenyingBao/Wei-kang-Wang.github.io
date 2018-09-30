@@ -1,12 +1,12 @@
 ---
 title: "Cooperative Target Searching and Tracking via UCT with Probability Distribution Model"
 collection: publications
-date: 10-16-2016
-venue: '2016 IEEE International Conference on Digital Signal Processing (DSP)'
-paperurl: 'https://ieeexplore.ieee.org/document/7868620'
+permalink: /publications/IEEEDSP2016
+venue: "2016 IEEE International Conference on Digital Signal Processing (DSP)"
+date: 2018-10-14
+citation: 'Ruoxi Qin, Tian Wang, Haotian Jiang, Qianhong Yan, <b>Weikang Wang</b>, Hichem Snoussi. <i>2016 IEEE International Conference on Digital Signal Processing (DSP)</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+[[PDF]](https://ieeexplore.ieee.org/document/7868620)
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+## Abstract
+As Unmanned Aerial Vehicle’s (UAV) battery life and stability develop, multiple UAVs are having more and more applications in the uninterrupted patrol and security. Thus UAV’s searching, tracking and trajectory planning become important issues. This paper proposes an online distributed algorithm used in UAV’s tracking and searching, with the consideration of UAV’s practical need to recharge under limited power. We propose a Quantum Probability Model to describe the partially observable target positions, and we use Upper Confidence Tree (UCT) algorithm to find out the best searching and tracking route based on this model. We also introduce the Teammate Learning Model to handle the nonstationary problems in distributed reinforcement learning.
