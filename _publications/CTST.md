@@ -3,7 +3,7 @@ title: "Cooperative Target Searching and Tracking via UCT with Probability Distr
 collection: publications
 permalink: /publications/IEEEDSP2016
 venue: "2016 IEEE International Conference on Digital Signal Processing (DSP)"
-date: 2018-10-14
+date: 2016-10-14
 citation: 'Ruoxi Qin, Tian Wang, Haotian Jiang, Qianhong Yan, <b>Weikang Wang</b>, Hichem Snoussi. <i>2016 IEEE International Conference on Digital Signal Processing (DSP)</i>.'
 ---
 [[PDF]](https://ieeexplore.ieee.org/document/7868620)
