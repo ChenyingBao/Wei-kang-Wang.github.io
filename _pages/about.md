@@ -14,4 +14,4 @@ redirect_from:
 
 
 # Recent News
-* I'm now seeking a Ph.D program in Electrical Engineering or Computer Science or Statistics based on the research areas.
+* I'm now seeking a Ph.D program in machine learning or related areas.
