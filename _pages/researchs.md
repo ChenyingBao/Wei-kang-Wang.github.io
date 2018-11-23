@@ -15,7 +15,7 @@ Internship in Institute of Automation, Chinese Academy of Science
   
 A New VC Dimension Based on Probability
 ======
-* [MACHINE PERCEPTION LAB](mpl.buaa.edu.cn), Beihang University, Beijing, CN, MAR./2016-Jun./2016
+* [MACHINE PERCEPTION LAB](http://mpl.buaa.edu.cn), Beihang University, Beijing, CN, MAR./2016-Jun./2016
 * Advisor: Professor B. Zhang
 * We introduced a new VC dimension by considering the distribution of data sets, the range of confidence interval and the training error;
   * Put forward new VC bound based on probability;
