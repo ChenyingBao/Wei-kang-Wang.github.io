@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Face recognition based on deep learning and embedded platform (Undergraduate graduation thesis)
+Face recognition based on deep learning and embedded platform (Undergraduate thesis)
 ======
 * Beihang University, Beijing, CN, SEP./2016-JUN./2017
 * Advisor: Professor B. Zhang, School of Automation Science and Electrical Engineering, Beihang University
