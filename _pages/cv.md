@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://Wei-kang-Wang.github.io/files/weikangwang_CV.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://Wei-kang-Wang.github.io/files/resume_wkwang.pdf)
 
 Education
 ======
