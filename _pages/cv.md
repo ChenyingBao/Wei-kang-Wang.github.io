@@ -15,7 +15,7 @@ Education
 * B.S. in Automation Science
   * Beihang University, Beijing, CN, 2017
 * M.S. in Electrical Engineering
-  * Columbia University, New York, NY, 2018(expected)
+  * Columbia University, New York, NY, 2018
   
 Skills
 ======
