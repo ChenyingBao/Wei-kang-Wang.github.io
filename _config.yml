@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weikang Wang"
 title_separator          : "-"
 name                     : &name "Weikang Wang"
-description              : &description "Master student, Electrical Engineering Department, Columbia University"
+# description              : &description "Master student, Electrical Engineering Department, Columbia University"
 url                      : https://Wei-kang-Wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wei-kang-Wang/Wei-kang-Wang.github.io"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Weikang Wang"
   avatar           : "ww2461.jpg"
-  bio              : "Master student, Electrical Engineering Department, Columbia University"
-  location         : "Columbia, New York"
+  bio              : 
+  location         : 
   employer         : 
   googlescholar    : 
   email            : "ww2461@columbia.edu"
