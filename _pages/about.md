@@ -15,4 +15,3 @@ redirect_from:
 
 
 # Recent News
-* I'm now seeking a visiting research opportunity.
