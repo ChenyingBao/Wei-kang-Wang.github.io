@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,3 +15,4 @@ redirect_from:
 
 
 # Recent News
+* I'm now a visiting scholar at Key Laboratory of Computing and Communication Software of Anhui Province (CCSL) in the University of Science and Technology of China, advised by [Prof. Shangfei Wang](http://202.38.64.11/~sfwang/)
