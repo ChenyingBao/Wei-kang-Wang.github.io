@@ -15,5 +15,3 @@ redirect_from:
 
 
 # Recent News
-
-* I'm now a visiting scholar at Key Laboratory of Computing and Communication Software of Anhui Province (CCSL) in University of Science and Technology of China, advised by [Prof. Shangfei Wang](http://202.38.64.11/~sfwang/)
