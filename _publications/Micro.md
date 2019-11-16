@@ -2,6 +2,7 @@
 title: "Learning from Macro-expression: an Adversarial Micro-expression RecognitionFramework" (<b>Submitted</b>)
 collection: 
 permalink: /publications/Micro
+venue: "submitted to CVPR"
 date: 2019-11-15
 citation: '<b>Wei-kang Wang</b>, Bin Xia, Shangfei Wang and Enhong Chen.'
 ---
