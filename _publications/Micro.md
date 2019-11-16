@@ -1,5 +1,5 @@
 ---
-title: "Learning from Macro-expression: an Adversarial Micro-expression RecognitionFramework" (<b>Submitted</b>)
+title: "Learning from Macro-expression: an Adversarial Micro-expression RecognitionFramework"
 collection: 
 permalink: /publications/Micro
 venue: "submitted to CVPR"
