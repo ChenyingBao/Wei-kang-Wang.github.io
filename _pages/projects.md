@@ -32,7 +32,7 @@ Data Mining: Customer Reviews of Hotels
 * Columbia University, New York, NY, JAN./2018-MAY./2018
 * Course project of Statistical Learning
 * Lecturer: Professor Predrag Jelenkovic, Dept. of Electrical Engineering, Columbia University
-* We adopted classical machine learning methods including naive Bayes classifer, decision tree and support vector
+* We adopted classical machine learning methods including naive Bayes classifier, decision tree and support vector
 machine to do a regression problem which outputs a rating value based on customer's several inputs. Sensitivity
 analysis was also conducted in the project. Theoretically analysis offered a clearer and deeper understanding of
 statistical machine learning tools.
