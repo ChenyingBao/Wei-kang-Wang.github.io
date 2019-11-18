@@ -25,7 +25,7 @@ Autonomous driving learning for single-agent problem with deep reinforcement lea
 * We developed an deep neural network to learn approximate functions of value-action function of autonomous driving
 problems. The traditional methods for learning value-action function like Q-learning or TD-learning are too space
 and time consuming thus not practical. We implemented the powerful learning ability of deep network to learn the
-approximation of the value-action function in order for more ecient autonomous driving systems.
+approximation of the value-action function in order for more efficient autonomous driving systems.
 
 Data Mining: Customer Reviews of Hotels
 ======
@@ -34,7 +34,7 @@ Data Mining: Customer Reviews of Hotels
 * Lecturer: Professor Predrag Jelenkovic, Dept. of Electrical Engineering, Columbia University
 * We adopted classical machine learning methods including naive Bayes classifer, decision tree and support vector
 machine to do a regression problem which outputs a rating value based on customer's several inputs. Sensitivity
-analysis was also conducted in the project. Theoretically analysis oered a clearer and deeper understanding of
+analysis was also conducted in the project. Theoretically analysis offered a clearer and deeper understanding of
 statistical machine learning tools.
   
 Multi-Digits Recognition based on CNN
