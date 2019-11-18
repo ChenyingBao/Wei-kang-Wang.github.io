@@ -20,7 +20,7 @@ Education
 Skills
 ======
 * Programming Languages: Python, R, C, Matlab
-* Mathematical Ability: Real Analysis, Complex Analysis, Linear Algebra, Probaiblity, Matrix Analysis, Functional Analysis, Differentiable Geometry
+* Mathematical Ability: Linear Algebra, Calculus, Real Analysis, Complex Analysis, Linear Algebra, Probaiblity, Statistical Inference, Matrix Analysis, Functional Analysis, Differentiable Geometry and Convex Analysis.
 
 <!--Publications
 ======
