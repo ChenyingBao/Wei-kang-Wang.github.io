@@ -15,4 +15,5 @@ redirect_from:
 
 
 # Recent News
-* I'm now a visiting scholar at Key Laboratory of Computing and Communication Software of Anhui Province (CCSL) in the Computer Science Department, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), advised by [Prof. Shangfei Wang](http://202.38.64.11/~sfwang/) and [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/).
+* I'm now looking for PhD program in computer vision, machine learning, optimization, numerical analysis, robotics or related areas.
+* I'm now a visiting student at Key Laboratory of Computing and Communication Software of Anhui Province (CCSL) in the Computer Science Department, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), advised by [Prof. Shangfei Wang](http://202.38.64.11/~sfwang/) and [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/).
