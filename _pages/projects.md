@@ -65,4 +65,4 @@ I designed an embedded face recognition system which can capture, preprocess and
 in an embedded system. Our system combined face image detection, image preprocessing and face identification.
 The inner structure is VGG19 and fine-tuned to adapt in our problem. We pretrained our network and then encode
 the framework into an embedded system for recognition tasks. This can be used as sign-in machine by identifying
-human identities eciently.
+human identities effciently.
