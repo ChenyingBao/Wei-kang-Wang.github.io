@@ -10,6 +10,7 @@ Academic Visiting at Department of Computer Science, University of Science and T
 * Key Laboratory of Computing and Communication Software of Anhui Province, Anhui, CN, JUN./2019-PRESENT
 * Advisor: Prof. Shangfei Wang and Prof. Enhong Chen
 * During this time, I concentrated on micro-expression recognition problem. Micro-expressions are subtle and brief facial expression thus very hard to recognize. Past works have already used various handcrafted features and deep features in this problem but resulted in poor performances. We adopted an adversarial learning framework that leveraged normal facial expression images, named macro-expressions, to assist the recognition of micro-expressions. We believed that micro-expression and macro-expression with same expression labels could have similar features by proper feature extractor after adversarial learning. Our proposed method outperformed all state-of-the-art method in CAMSE2, SMIC databases and in the composite database task.
+* Achievements: Learning from Macro-expression: an Adversarial Micro-expression RecognitionFramework. [[PDF]](http://Wei-kang-Wang.github.io/files/Micro-expression.pdf)
 
 Internship in Institute of Automation, Chinese Academy of Science
 ======
@@ -22,9 +23,11 @@ A New VC Dimension Based on Probability
 * School of Automation Science and Electrical Engineering, Beihang University, Beijing, CN, MAR./2016-Jun./2016
 * Advisor: Prof. B. Zhang
 * We considered a new variant of VC dimension by leveraging information from data distribution. Original VC dimension gave a measure of learning ability based on all possible training data distributions, while in many real situations, we only need to concentrate on limited ones. Thus we proposed a new VC dimension which took data distributions into consideration and we proved that the original VC bound was also applicable in our new definition. Thus if we have information of training data, theoretically we can implemented a simpler model to achieve the same performance as the complex model suggested by original VC dimension theory.
+* Archievements: A New VC dimension Based on Probability. [[PDF]](http://dpi-proceedings.com/index.php/dtcse/article/viewFile/8239/7812)
 
 Cooperative target searching and tracking via UCT with probability distribution model
 ======
 * School of Automation Science and Electrical Engineering, Beihang University, Beijing, CN, JUL./2015-Dec./2015
 * Advisor: Dr. T. Wang
 * We developed an online distributed algorithm used in UAVs tracking and searching, with the consideration of UAVs practical need to recharge under limited power. We propose a Quantum Probability Model to describe the partially observable target positions, and we use Upper Confidence Tree (UCT) algorithm to find out the best searching and tracking route based on this model. We also introduce the Teammate Learning Model to handle the non-stationary problems in distributed reinforcement learning.
+* Archievements: Cooperative Target Searching and Tracking via UCT with Probability Distribution Model. [[PDF]](https://ieeexplore.ieee.org/document/7868620)
