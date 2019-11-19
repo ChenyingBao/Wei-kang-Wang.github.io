@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Is sparse representation a good and profound explanation for face recognition?
+Is sparse representation a good and profound explanation for face recognition?[[PDF]](http://Wei-kang-Wang.github.io/files/is.pdf)
 ======
 * Columbia University, New York, NY, JAN./2018-MAY./2018
 * Course project of Sparse Representation & High-dimensional Geometry
@@ -27,7 +27,7 @@ problems. The traditional methods for learning value-action function like Q-lear
 and time consuming thus not practical. We implemented the powerful learning ability of deep network to learn the
 approximation of the value-action function in order for more efficient autonomous driving systems.
 
-Data Mining: Customer Reviews of Hotels
+Data Mining: Customer Reviews of Hotels[[PDF]](http://Wei-kang-Wang.github.io/files/data-mining.pdf)
 ======
 * Columbia University, New York, NY, JAN./2018-MAY./2018
 * Course project of Statistical Learning
@@ -37,7 +37,7 @@ machine to do a regression problem which outputs a rating value based on custome
 analysis was also conducted in the project. Theoretically analysis offered a clearer and deeper understanding of
 statistical machine learning tools.
   
-Multi-Digits Recognition based on CNN
+Multi-Digits Recognition based on CNN[[PDF]](http://Wei-kang-Wang.github.io/files/multi-digits.pdf)
 ======
 * Columbia University, New York, NY, SEP./2017-DEC./2017
 * Course project of Neural Network & Deep Learning
@@ -47,7 +47,7 @@ Multi-Digits Recognition based on CNN
 probability model is used to represent the length of digits and every identity of those digits. We trained and tested
 our framework with The Street View House Numbers (SVHN) Database and got a 73:998% testing accuracy.  
   
-Emotion Detector Machine
+Emotion Detector Machine[[PDF]](http://Wei-kang-Wang.github.io/files/emotion.pdf)
 ======
 * Columbia University, New York, NY, SEP./2017-DEC./2017
 * Course project of Digital Signal Processing
