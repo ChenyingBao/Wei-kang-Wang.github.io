@@ -16,7 +16,7 @@ Internship in Institute of Automation, Chinese Academy of Science
 ======
 * [Center for Biometrics and Security Research (CBSR), National Laboratory of Pattern Recognition of China](http://www.cbsr.ia.ac.cn/english/index.asp), Beijing, CN, SEP./2016-NOV./2016
 * Advisor: Dr. Stan Li.
-* I merged Megaface database, MS-Celeb-1M database and CASIA database into one database with images of a same identity merged. This was completed by first adopting a CNN to extract features and then evaluated the similarity matrix of every two features. Pairs with low similarity value below a threshold will be assumed not the same and with high accuracy need to be checked manually. But by adjusting the threshold we can nd a balance between the fusion accuracy and the time we need to take and the key is actually how well the features got from the CNN.
+* I merged Megaface database, MS-Celeb-1M database and CASIA database into one database with images of a same identity merged. This was completed by first adopting a CNN to extract features and then evaluated the similarity matrix of every two features. Pairs with low similarity value below a threshold will be assumed not the same and with high accuracy need to be checked manually. But by adjusting the threshold we can find a balance between the fusion accuracy and the time we need to take and the key is actually how well the features got from the CNN.
   
 Research Project: A New VC Dimension Based on Probability[[PDF]](http://dpi-proceedings.com/index.php/dtcse/article/viewFile/8239/7812)
 ======
