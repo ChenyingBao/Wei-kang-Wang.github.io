@@ -2,7 +2,7 @@
 title: "Preparation and properties of autoclaved aerated concrete using coal gangue and iron ore tailings[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950061815307145)"
 collection:
 permalink: /publications/Construction and Building Materials 2016
-venue: "Construction and Building Materials 104(2016) 109-115"
+venue: "Construction and Building Materials Volumn 104,109-115(2016)"
 date: 2016-2-1
 citation: 'Chang-long Wang, Wen Ni, Si-qi Zhang, Shuang Wang, Guo-sheng Gai, <b>Weikang Wang</b>. <i>Construction and Building Materials Volumn 104, 2016</i>.'
 ---
