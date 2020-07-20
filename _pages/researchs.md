@@ -7,7 +7,7 @@ author_profile: true
 
 Academic Visiting at Department of Computer Science, University of Science and Technology of China
 ======
-* Key Laboratory of Computing and Communication Software of Anhui Province, Anhui, CN, JUN./2019-PRESENT
+* Key Laboratory of advanced simulation technology aviation science and technology, Beijing, CN, SEP./2018-PRESENT
 * Advisor: Prof. Shangfei Wang and Prof. Enhong Chen
 * During this time, I concentrated on micro-expression recognition problem. Micro-expressions are subtle and brief facial expression thus very hard to recognize. Past works have already used various handcrafted features and deep features in this problem but resulted in poor performances. We adopted an adversarial learning framework that leveraged normal facial expression images, named macro-expressions, to assist the recognition of micro-expressions. We believed that micro-expression and macro-expression with same expression labels could have similar features by proper feature extractor after adversarial learning. Our proposed method outperformed all state-of-the-art method in CAMSE2, SMIC databases and in the composite database task.
 * Achievements: Learning from Macro-expression: an Adversarial Micro-expression RecognitionFramework. [[PDF]](http://Wei-kang-Wang.github.io/files/Micro-expression.pdf)
