@@ -2,7 +2,7 @@
 title: "A Fast Analysis Method for Blue-Green Laser Transmission through the Sea Surface[[PDF]](https://www.mdpi.com/1424-8220/20/6/1758)"
 collection:
 permalink: /publications/SENSORS2020
-venue: "<i>Sensors 2020, 20(6), 1758 <i>"
+venue: "<i>Sensors 2020, 20(6), 1758 </i>"
 date: 2020-3-22
 citation: 'Liwei Dong, Ni Li, Xinhao Xie, <b>Chenying Bao</b>, Xiaolu Li and Duan Li.'
 ---
