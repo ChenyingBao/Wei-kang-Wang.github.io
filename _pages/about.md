@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-[[Curriculum Vitae]](http://Wei-kang-Wang.github.io/files/weikangwang_CV.pdf)
-* I received my Master's Degree in [Electrical Engineering Department](https://drupal.ee.columbia.edu//) at [Columbia University](https://www.columbia.edu).
-* I received my Bachelor’s Degree in [Beihang University](https://ev.buaa.edu.cn/). My undergraduate research advisor is [Prof. Baochang Zhang](http://shi.buaa.edu.cn/mpl/en/index.htm).
-* My research interests are machine learning, high dimensional statistics, computer vision, optimization and numerical analysis.
-
+[[Curriculum Vitae]](http://chenyingbao.github.io/files/chenyingbao_CV.pdf)
+* I'm now a third year master student in [School of Automation Science and Electrical Engineering](http://asee.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/). My advisor is [Prof. Ni Li](http://shi.buaa.edu.cn/lini/en/index.htm).
+* I received my Bachelor’s Degree also in [Beihang University](https://ev.buaa.edu.cn/) (with summa cum laude)
 
 # Recent News
-* I'm now looking for PhD program in computer vision, machine learning, optimization, numerical analysis, robotics or related areas, with a particular interest in mathematics.
-* I'm now a visiting student at Key Laboratory of Computing and Communication Software of Anhui Province (CCSL), Department of Computer Science, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), advised by [Prof. Shangfei Wang](http://202.38.64.11/~sfwang/) and [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/).
+* I'm now looking for PhD program in human-computer interaction, computer-based simulation, robotics or related areas with broad interests.
