@@ -8,19 +8,19 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://Wei-kang-Wang.github.io/files/weikangwang_CV.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://chenyingbao.github.io/files/chenyingbao_CV.pdf)
 
 Education
 ======
 * B.S. in Automation Science
-  * Beihang University, Beijing, CN, 2017
-* M.S. in Electrical Engineering
-  * Columbia University, New York, NY, 2018
+  * Beihang University, Beijing, CN, 2018
+* M.S. in Electrical Engineering (expected)
+  * Beihang University, Beijing, CN, 2021
   
 Skills
 ======
-* Programming Languages: Python, R, C, Matlab
-* Mathematical Ability: Real Analysis, Complex Analysis, Linear Algebra, Probaiblity, Matrix Analysis, Functional Analysis, Differentiable Geometry
+* Programming Languages: C, C++, Matlab, Python
+* Software Skills: Unity, ANAYS
 
 <!--Publications
 ======
