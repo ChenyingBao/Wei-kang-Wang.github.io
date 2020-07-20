@@ -1,10 +1,10 @@
 ---
-title: "Learning from Macro-expression: an Adversarial Micro-expression Recognition Framework[[PDF]](http://Wei-kang-Wang.github.io/files/Micro-paper.pdf)"
+title: "A Fast Calculation and Rendering Method for Infrared Characteristics of Hypersonic Vehicle[[PDF]](https://iopscience.iop.org/article/10.1088/1742-6596/1584/1/012067)"
 collection: 
-permalink: /publications/Micro
+permalink: /publications/FCRM
 venue: "submitted"
 date: 2020-06-15
-citation: '<b>Wei-kang Wang</b>, Bin Xia, Shangfei Wang and Enhong Chen.'
+citation: '<b>Chenying Bao</b>, Ni Li, Guanghong Gong, Chao Tian and Yuanjie Lu.'
 ---
 ## Abstract
-As one of the most important forms of psychological behaviors, micro-expression can reveal the real emotion. However, the existing labeled micro-expression samples are limited to train a high performance micro-expression classifier. Since micro-expression and macro-expression share some similarities in facial muscle movements and texture changes, in this paper we propose a microexpression recognition framework that leverages macro-expression samples as guidance. Specifically, we first introduce two Expression-Identity Disentangle Network, named MicroNet and MacroNet, as the feature extractor to disentangle expression-related features for micro and macro expression samples. Then MacroNet is fixed and used to guide the fine-tuning of MicroNet from both label and feature space. Adversarial learning strategy and triplet loss are added upon feature level between the MicroNet and MacroNet, so the MicroNet can efficiently capture the shared features of microexpression and macro-expression samples. Loss inequality regularization is imposed to the label space to make the output of MicroNet converge to that of MicroNet. Comprehensive experiments on three public spontaneous micro-expression databases, i.e., SMIC, CASME2 and SAMM  demonstrate the superiority of the proposed method.
+In this paper, a fast calculation and rendering method for infrared characteristics of hypersonic vehicle is proposed, which covers the overall infrared simulation process. The key point of this method is the heterogeneous interpolation algorithm, which can map the data from dense grid to sparse grid, thus greatly reducing the volume of data and improving rendering efficiency on the premise of guaranteeing the simulation reliability. Taking the hypersonic vehicle X-43A as an example, we realize the calculation and rendering of its infrared characteristics. Experimental results show that the infrared radiation characteristics of hypersonic vehicle are primely reproduced in the rendering process.
