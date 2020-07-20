@@ -4,4 +4,4 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Email: ww2461@columbia.edu
+Email: <i> baochenying@buaa.edu.cn </i> or <i> cybao0101@outlook.com </i>
