@@ -2,7 +2,7 @@
 title: "Learning from Macro-expression: an Adversarial Micro-expression Recognition Framework[[PDF]](http://Wei-kang-Wang.github.io/files/Micro-paper.pdf)"
 collection: 
 permalink: /publications/Micro
-venue: "submitted"
+venue: "Admitted by ACM Multimedia 2020"
 date: 2020-06-15
 citation: '<b>Wei-kang Wang</b>, Bin Xia, Shangfei Wang and Enhong Chen.'
 ---
